@@ -1,4 +1,5 @@
 import math
+import random
 
 # Basic arithmetic operations
 a = 5
