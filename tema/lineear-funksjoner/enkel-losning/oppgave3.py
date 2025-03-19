@@ -1,6 +1,7 @@
 # Sannsynligvis beregner den verdien av en sum med renter over tid.
-startbeløp = 1000  # Sett inn ønsket startbeløp
+startbeløp = 50000  # Sett inn ønsket startbeløp
 rente = 0.057  # 5,7% rente
+
 år = 15
 
 for _ in range(år):
